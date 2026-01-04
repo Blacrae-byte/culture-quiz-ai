@@ -1,0 +1,5 @@
+{
+  "name": "National Identity Quiz",
+  "description": "An interactive trivia game challenging players to identify countries based on flags, mascots, and national sports.",
+  "requestFramePermissions": []
+}
